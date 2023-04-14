@@ -12,9 +12,7 @@
 
 - ⚡ Fun fact **Debugging is like being a detective in a crime movie where you're also the murderer**
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/112370619/229509970-554b712e-cf57-46d7-822d-f5b2e7358e81.png">
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47utyh5r2rbumz3qnjm29fw3kfjy4ek05q6nqy2bv2&rid=giphy.gif&ct=g">
 
 
 <h3 align="left">Connect with me:</h3>
