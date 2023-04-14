@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **diyoufkv7@gmail.com**
 
-- ⚡ Fun fact **Debugging is like being a detective in a crime movie where you're also the murderer**
+- ⚡ Fun fact **Debugging is like being a detective in a <br> crime movie where you're also the murderer**
 
 
 
