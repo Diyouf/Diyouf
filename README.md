@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **Debugging is like being a detective in a crime movie where you're also the murderer**
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47utyh5r2rbumz3qnjm29fw3kfjy4ek05q6nqy2bv2&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47utyh5r2rbumz3qnjm29fw3kfjy4ek05q6nqy2bv2&rid=giphy.gif&ct=g">
 
 
 <h3 align="left">Connect with me:</h3>
